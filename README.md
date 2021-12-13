@@ -8,9 +8,9 @@ I am a french computer science engineer, specialized in cybersecurity. I am a ve
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a virtual core;
-- 🌱 &nbsp; I’m currently learning Django; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/naretto95?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lilian-naretto-31048b15b/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1YErXjF0nz7npvgOlGrFCSaQpV4Rco0Ep/view?usp=sharing)
+- 🔭 &nbsp; I’m currently working on a virtual core.
+- 🌱 &nbsp; I’m currently learning Django.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/naretto95?tab=repositories).
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lilian-naretto-31048b15b/).
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1YErXjF0nz7npvgOlGrFCSaQpV4Rco0Ep/view?usp=sharing).
