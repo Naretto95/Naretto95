@@ -14,3 +14,4 @@ I am a french computer science engineer, specialized in cybersecurity. I am a ve
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lilian-naretto/).
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1YErXjF0nz7npvgOlGrFCSaQpV4Rco0Ep/view?usp=sharing).
+- 💻 &nbsp; Feel free to use my newest app [OtterVault](https://ottervault.herokuapp.com/)
