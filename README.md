@@ -15,3 +15,5 @@ I am a french computer science engineer, specialized in cybersecurity. I am a ve
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lilian-naretto/).
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1YErXjF0nz7npvgOlGrFCSaQpV4Rco0Ep/view?usp=sharing).
 - 💻 &nbsp; Feel free to use my newest app [OtterVault](https://ottervault.herokuapp.com/)
+
+[![Naretto95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naretto95)](https://github.com/anuraghazra/github-readme-stats)
