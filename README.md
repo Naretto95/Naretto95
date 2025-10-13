@@ -8,8 +8,8 @@ I am a french computer science engineer, specialized in cybersecurity. I am a ve
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a virtual core.
-- 🌱 &nbsp; I’m currently learning Django.
+- 🔭 &nbsp; I’m currently working on ansible x HomeLab project.
+- 🌱 &nbsp; I’m currently learning kubernetes.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/naretto95?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lilian-naretto/).
