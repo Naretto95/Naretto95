@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Lilian Naretto</h1>
-<h3 align="center">French Computer Science Engineer specialized in Cybersecurity</h3>
+<h3 align="center">French Computer Science Engineer specialized in DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Versatilist+%7C+Adapts+to+any+stack;Cybersecurity+%2B+Cloud+%2B+Automation;Building+cool+stuff+with+new+tech+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Versatilist+%7C+Adapts+to+any+stack;DevOps+%2B+Cloud+%2B+Automation;Building+cool+stuff+with+new+tech+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 🧐 About Me
 
-- 🛡️ &nbsp; Cybersecurity engineer who loves exploring new tech stacks and turning them into real projects.
+- ⚙️ &nbsp; DevOps engineer who loves exploring new tech stacks and turning them into real projects.
 - 🔭 &nbsp; Currently working on an **Ansible × HomeLab** project.
 - 🌱 &nbsp; Currently learning **Kubernetes**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/naretto95?tab=repositories).
@@ -54,15 +54,18 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-1E4E5F?style=flat-square&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Naretto95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naretto95&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naretto95&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naretto95&theme=tokyonight"/>
 </p>
 
 <p align="center">
