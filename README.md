@@ -19,10 +19,6 @@
 
 ---
 
-<p align="center">
-  <img alt="Tech stack GIF" src="https://raw.githubusercontent.com/naretto95/naretto95/main/techstack.gif" width="360px"/>
-</p>
-
 ### 🧐 About Me
 
 - ⚙️ &nbsp; DevOps engineer who loves exploring new tech stacks and turning them into real projects.
