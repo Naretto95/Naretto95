@@ -59,6 +59,8 @@
 
 <br clear="right"/>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
