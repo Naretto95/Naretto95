@@ -58,8 +58,7 @@
 </p>
 
 <br clear="right"/>
-
----
+<hr style="margin-top: 8px;"/>
 
 ### 📊 GitHub Stats
 
