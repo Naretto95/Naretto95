@@ -19,7 +19,9 @@
 
 ---
 
-<img align="right" alt="Tech stack GIF" src="https://raw.githubusercontent.com/naretto95/naretto95/main/techstack.gif" width="360px"/>
+<p align="center">
+  <img alt="Tech stack GIF" src="https://raw.githubusercontent.com/naretto95/naretto95/main/techstack.gif" width="360px"/>
+</p>
 
 ### 🧐 About Me
 
@@ -57,7 +59,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
 
-<br clear="right"/>
 <hr style="margin-top: 8px;"/>
 
 ### 📊 GitHub Stats
